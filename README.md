@@ -1,3 +1,3 @@
 # hello-world
-first git exeriment
+first git experiment
 
